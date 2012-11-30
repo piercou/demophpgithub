@@ -1,5 +1,4 @@
-﻿<%@ Page Language="C#" %>
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -7,9 +6,10 @@
         <title></title>
     </head>
     <body>
-        <form id="form1" runat="server">
+        <form id="form1" >
         <div>
-            Un site un peu moins vide
+            Un site plein de trucs..<br/>
+            <?echo phpinfo();?>
         </div>
         </form>
     </body>
