@@ -8,7 +8,7 @@
     <body>
         <form id="form1" >
         <div>
-            Un site plein de nouveaux trucs..<br/>
+            Un site plein de nouveaux nouveaux trucs..<br/>
             <?echo phpinfo();?>
         </div>
         </form>
